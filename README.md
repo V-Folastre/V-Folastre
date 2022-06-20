@@ -30,4 +30,4 @@
 
 
 
-[linkedin]: [https://www.linkedin.com/in/valentin-folastre-%F0%9F%99%82-011a5a238/](https://www.linkedin.com/in/valentin-folastre-%F0%9F%99%82-011a5a238/)
+[linkedin]: [https://www.linkedin.com/in/valentin-folastre-%F0%9F%99%82-011a5a238/]
