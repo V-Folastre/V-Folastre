@@ -1,8 +1,8 @@
 ### Salut 🙂
 
-## Je suis développeur actuellement en formation.
-- 💼 Militaire en reconversion, passioné des nouvelles technologies
-- 📅 Recherche un stage du 12 Septembre au 25 Novembre 2022
+## Je suis titulaire du titre professionnel de niveau 5 Développeur web et web mobile.
+- 💼 Ancienncement militaire, passioné des nouvelles technologies.
+- 📅 Recherche une alternance, CDD ou CDI dans la région de Loire-Atlantique.
 
 ### Connect with me:
 
