@@ -9,7 +9,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="V-Folastre | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="V-Folastre | LinkedIn" width="22px" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" />][linkedin]
 
 <br />
 
