@@ -1,12 +1,5 @@
 ### Salut 🙂
 
-## Je recherche une entreprise en alternance pour le titre de Concepteur Développeur d'Applications (Bac+4 / 2ans).
-- 💻 Inscrit à l'école d'informatique ENI.
-- 📅 Recherche une entreprise en alternance dans la région de Loire-Atlantique.
-- 🎓 Titulaire du titre professionnel de niveau 5 Développeur web et web mobile.
-- 💼 Anciennement militaire, passionné des nouvelles technologies.
-
-
 ### Connect with me:
 
 [<img align="left" alt="V-Folastre | LinkedIn" width="22px" src="https://www.svgrepo.com/show/303299/linkedin-icon-2-logo.svg" />][linkedin]
